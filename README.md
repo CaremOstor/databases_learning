@@ -1,2 +1,3 @@
 # databases_learning
-Repository with my scripts for databases and some useful links&amp;resources
+Some simple sql scripts with examples of basic syntax
+Works on PostgreSQL
